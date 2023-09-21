@@ -1,2 +1,2 @@
-# DogMatch
+# Bootstrap
 A tinder for Dogs.
